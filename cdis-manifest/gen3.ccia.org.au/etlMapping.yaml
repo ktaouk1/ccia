@@ -1,5 +1,5 @@
 mappings:
-  - name: etl
+  - name: gen3.ccia.org.au_case
     doc_type: case
     type: aggregator
     root: case
@@ -61,7 +61,7 @@ mappings:
           - name: _file_id
             src: file_id
             fn: set
-  - name: file
+  - name: gen3.ccia.org.au_file
     doc_type: file
     type: collector
     root: None
