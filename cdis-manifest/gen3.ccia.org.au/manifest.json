@@ -240,15 +240,15 @@
   "guppy": {
     "indices": [
       {
-        "index": "gen3.cloud.dev.umccr.org_subject",
+        "index": "gen3.ccia.org.au_subject",
         "type": "subject"
       },
       {
-        "index": "gen3.cloud.dev.umccr.org_file",
+        "index": "gen3.ccia.org.au_file",
         "type": "file"
       }
     ],
-    "config_index": "gen3.cloud.dev.umccr.org_array-config",
+    "config_index": "gen3.ccia.org.au_array-config",
     "auth_filter_field": "auth_resource_path"
   },
   "scaling": {
