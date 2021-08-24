@@ -240,8 +240,8 @@
   "guppy": {
     "indices": [
       {
-        "index": "gen3.ccia.org.au_subject",
-        "type": "subject"
+        "index": "gen3.ccia.org.au_case",
+        "type": "case"
       },
       {
         "index": "gen3.ccia.org.au_file",
