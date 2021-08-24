@@ -105,8 +105,8 @@
       "memory-limit": "256Mi",
       "image": "quay.io/cdis/gen3fuse-sidecar:2021.08",
       "env": {
-        "NAMESPACE": "devumccr",
-        "HOSTNAME": "gen3.cloud.dev.umccr.org"
+        "NAMESPACE": "devccia",
+        "HOSTNAME": "gen3.ccia.org.au"
       },
       "args": [
 
